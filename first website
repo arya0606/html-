@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>website number 1</title>
+    </head>
+        <body>
+          <h1>title number 1 </h1>
+          <h2>html playground title 2</h2>
+          <h3>font getting smaller</h3>
+         this is a test message 
+         <p>Lorem Ipsum is <br>simply dummy text of the printing and typesetting industry. Lorem Ipsum has <i> test italics </i> been the industry's <u>noice this works </u>standard dummy text ever since the <em>emphasize</em>1500s, when an unknown printer took <strong>mei strong hoon</strong> a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+        
+        <p>papapap</p> <hr>
+            <a href="https://www.youtube.com/watch?v=PlxWf493en4" target="blank">
+            youtube link to learn web dev</p> </hr> </a>
+            <img src="https://via.placeholder.com/150" border="10">
+              
+            <ul>
+                <li>apples
+                 <ul>
+                     <li>crunchy</li>
+                     <li>golden delicious </li>
+                </ul>
+                </li>
+                 
+                <li>oranges</li>
+                <li>mangoes</li>
+            </ul>
+            <table border="2" cellpadding="4" cellspacing="7">  
+                <tr>
+                    <th>month</th>
+                    <th>rent</th> 
+                    <th>utilities</th>  
+                    <th>entertainment</th>
+    
+                </tr>
+                <tr>
+                    <td>January</td>
+                    <td>16999</td>
+                    <td>800</td>
+                </tr>
+            </table>
+        </body>
+    
+</html>
+
